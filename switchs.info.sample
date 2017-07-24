@@ -1,0 +1,6 @@
+# impi, switch_vendor('ruijie', 'junos'), switch_version, switch_ip
+# example:
+10.249.82.181,ruijie,S6220,10.209.128.8
+10.249.82.182,ruijie,S6220,10.209.128.8
+10.249.82.183,junos,ex3300-48t,10.209.128.9
+
