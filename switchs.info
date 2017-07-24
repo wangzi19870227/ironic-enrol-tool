@@ -1,8 +1,0 @@
-# impi, switch_vendor('ruijie', 'junos'), switch_version, switch_ip
-# example:
-10.111.108.46,junos,qfx5100,10.11.108.2
-10.111.108.47,junos,qfx5100,10.11.108.2
-10.111.108.48,junos,qfx5100,10.11.108.2
-10.111.108.51,junos,qfx5100,10.11.108.4
-10.111.108.52,junos,qfx5100,10.11.108.4
-10.111.108.53,junos,qfx5100,10.11.108.4

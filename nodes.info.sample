@@ -1,10 +1,10 @@
-10.111.xxx.xxx  opsidc  @qiugaoqs123]  10.11.xxx.xxx  xe-0/0/x  2X:4X:BX:F0:95:1X  10.11.xxx.xxx  xe-0/0/x  5x:bx:01:9c:8b:4x HP comm1
-10.111.xxx.xxx  root    @qiugaoqs123]  10.11.xxx.xxx  xe-0/0/x  3X:4X:BX:F0:95:1X  10.11.xxx.xxx  xe-1/0/x  EX:Fx:BB:F0:95:1x DELL comm2
-10.111.xxx.xxx  root    @qiugaoqs123]  10.11.xxx.xxx  xe-0/0/x  4X:4X:BX:F0:95:1X  10.11.xxx.xxx  xe-1/0/x  EX:Fx:BB:F0:95:1x DELL_DIRECTC calc1
-10.111.xxx.xxx  root    @qiugaoqs123]  10.11.xxx.xxx  xe-0/0/x  5X:4X:BX:F0:95:1X  10.11.xxx.xxx  xe-1/0/x  EX:Fx:BB:F0:95:1x SHUGUANG calc2
-10.111.xxx.xxx  root    @qiugaoqs123]  10.11.xxx.xxx  xe-0/0/x  5X:4X:BX:F0:95:1X  10.11.xxx.xxx  xe-1/0/x  EX:Fx:BB:F0:95:1x LANGCHAO hio1
-10.111.xxx.xxx  opsidc  @qiugaoqs123]  10.11.xxx.xxx  xe-0/0/x  2Y:4X:BX:F0:95:1X HP stor1
-10.111.xxx.xxx  root    @qiugaoqs123]  10.11.xxx.xxx  xe-0/0/x  3Y:4X:BX:F0:95:1X DELL stor2
-10.111.xxx.xxx  root    @qiugaoqs123]  10.11.xxx.xxx  xe-0/0/x  4Y:4X:BX:F0:95:1X DELL_DIRECTC stor3
-10.111.xxx.xxx  root    @qiugaoqs123]  10.11.xxx.xxx  xe-0/0/x  5Y:4X:BX:F0:95:1X SHUGUANG comm1
-10.111.xxx.xxx  root    @qiugaoqs123]  10.11.xxx.xxx  xe-0/0/x  5Y:4X:BX:F0:95:1X LANGCHAO comm2
+10.111.xxx.xxx,opsidc,@qiugaoqs123],10.11.xxx.xxx,xe-0/0/x,2X:4X:BX:F0:95:1X,10.11.xxx.xxx,xe-0/0/x,5x:bx:01:9c:8b:4x,HP,comm1
+10.111.xxx.xxx,root,@qiugaoqs123],10.11.xxx.xxx,xe-0/0/x,3X:4X:BX:F0:95:1X,10.11.xxx.xxx,xe-1/0/x,EX:Fx:BB:F0:95:1x,DELL,comm2
+10.111.xxx.xxx,root,@qiugaoqs123],10.11.xxx.xxx,xe-0/0/x,4X:4X:BX:F0:95:1X,10.11.xxx.xxx,xe-1/0/x,EX:Fx:BB:F0:95:1x,DELL_DIRECTC,calc1
+10.111.xxx.xxx,root,@qiugaoqs123],10.11.xxx.xxx,xe-0/0/x,5X:4X:BX:F0:95:1X,10.11.xxx.xxx,xe-1/0/x,EX:Fx:BB:F0:95:1x,SUGON,calc2
+10.111.xxx.xxx,root,@qiugaoqs123],10.11.xxx.xxx,xe-0/0/x,5X:4X:BX:F0:95:1X,10.11.xxx.xxx,xe-1/0/x,EX:Fx:BB:F0:95:1x,INSPUR,hio1
+10.111.xxx.xxx,opsidc,@qiugaoqs123],10.11.xxx.xxx,xe-0/0/x,2Y:4X:BX:F0:95:1X,HP,stor1
+10.111.xxx.xxx,root,@qiugaoqs123],10.11.xxx.xxx,xe-0/0/x,3Y:4X:BX:F0:95:1X,DELL,stor2
+10.111.xxx.xxx,root,@qiugaoqs123],10.11.xxx.xxx,xe-0/0/x,4Y:4X:BX:F0:95:1X,DELL_DIRECTC,stor3
+10.111.xxx.xxx,root,@qiugaoqs123],10.11.xxx.xxx,xe-0/0/x,5Y:4X:BX:F0:95:1X,SUGON,comm1
+10.111.xxx.xxx,root,@qiugaoqs123],10.11.xxx.xxx,xe-0/0/x,5Y:4X:BX:F0:95:1X,INSPUR,comm2
