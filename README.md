@@ -1,12 +1,12 @@
 ## NOTICE about conf.py
 > **conf about node deploy / clean**
 >
-> - deploy_kernel_hp, download from http://yum-production.plato.lecloud.com/images/ironic-deploy-proliant-latest.vmlinuz;
-> - deploy_ramdisk_hp, download from http://yum-production.plato.lecloud.com/images/ironic-deploy-proliant-latest.initramfs;
-> - deploy_kernel_dell, download from http://yum-production.plato.lecloud.com/images/ironic-deploy-mega-latest.vmlinuz;
-> - deploy_ramdisk_dell, download from http://yum-production.plato.lecloud.com/images/ironic-deploy-mega-latest.initramfs;
-> - deploy_kernel_dell_directc, download from http://yum-production.plato.lecloud.com/images/ironic-deploy-mega-directc-latest.vmlinuz;
-> - deploy_ramdisk_dell_directc, download from http://yum-production.plato.lecloud.com/images/ironic-deploy-mega-directc-latest.initramfs;
+> - deploy_kernel_hp, download from http://your-yum-repo.com/images/ironic-deploy-proliant-latest.vmlinuz;
+> - deploy_ramdisk_hp, download from http://your-yum-repo.com/images/ironic-deploy-proliant-latest.initramfs;
+> - deploy_kernel_dell, download from http://your-yum-repo.com/images/ironic-deploy-mega-latest.vmlinuz;
+> - deploy_ramdisk_dell, download from http://your-yum-repo.com/images/ironic-deploy-mega-latest.initramfs;
+> - deploy_kernel_dell_directc, download from http://your-yum-repo.com/images/ironic-deploy-mega-directc-latest.vmlinuz;
+> - deploy_ramdisk_dell_directc, download from http://your-yum-repo.com/images/ironic-deploy-mega-directc-latest.initramfs;
 
 > **concurrency control**
 >
@@ -38,8 +38,8 @@
 >
 > - HP
 > - DELL
-> - SHUGUANG
-> - LANGCHAO
+> - SUGON
+> - INSPUR
 > - DELL_DIRECTC
 
 > **class support:**
@@ -52,8 +52,6 @@
 > - stor2
 > - stor3
 > - hio1
-
-Reference: http://wiki.letv.cn/pages/viewpage.action?pageId=68860310
 
 
 ## Get Started
